@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Produktoption</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Produktoptionen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Produktoption</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Produktoptionen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Produktoption</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Produktoptionen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Produktoption</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Produktoptionen</value>
+    </caseValues>
+    <fields>
+        <label><!-- Color --></label>
+        <name>Color__c</name>
+        <picklistValues>
+            <masterLabel>Black</masterLabel>
+            <translation><!-- Black --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blue</masterLabel>
+            <translation><!-- Blue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mat Black</masterLabel>
+            <translation><!-- Mat Black --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Purple</masterLabel>
+            <translation><!-- Purple --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Red</masterLabel>
+            <translation><!-- Red --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sky Blue</masterLabel>
+            <translation><!-- Sky Blue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>White</masterLabel>
+            <translation><!-- White --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Feature Name --></label>
+        <name>Feature_Name__c</name>
+    </fields>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Name der Option</nameFieldLabel>
+</CustomObjectTranslation>
